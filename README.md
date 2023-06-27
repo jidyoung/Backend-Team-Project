@@ -40,33 +40,32 @@
 
 게시판글쓰기
 
-
-
+https://github.com/jidyoung/Portfolio/assets/123146255/30761014-0446-49a2-b03b-a84c1dff0b24
 
 게시판분류별서치
 
-
+https://github.com/jidyoung/Portfolio/assets/123146255/af84d55d-d846-4817-952f-b6dd4dbef15a
 
 로그인확인_공지사항
 
-
+https://github.com/jidyoung/Portfolio/assets/123146255/7aa6c8c1-6443-41b2-976d-c7cd2351c80a
 
 회원가입 1
 
-
+https://github.com/jidyoung/Portfolio/assets/123146255/707a6978-f0d9-4481-ac61-ca2975a53490
 
 회원가입 2
 
-
+https://github.com/jidyoung/Portfolio/assets/123146255/3cef7657-47af-435b-b685-fd9d5e24f22e
 
 회원정보수정
 
-
+Uploading 회원정보수정.mp4…
 
 회원탈퇴
 
-https://github.com/jihwan160/portfolio/assets/108442182/c927a107-ce51-4e76-8266-c3f51dcbfeaf
+https://github.com/jidyoung/Portfolio/assets/123146255/a0a4c578-a8f5-40b3-8cb4-a9c754648883
 
 관리자
 
-https://github.com/jihwan160/portfolio/assets/108442182/1dde22cb-4303-4382-8717-89ac93fc1669
+https://github.com/jidyoung/Portfolio/assets/123146255/2fb04820-26c6-4072-a4b8-6bf8d5da78b7
