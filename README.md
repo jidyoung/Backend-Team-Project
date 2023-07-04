@@ -7,8 +7,7 @@
 
 #2. DB 구성
 
-
-
+![백엔드1](https://github.com/jidyoung/Backend-Team-Project/assets/123146255/487a575a-cf11-41c3-8b8e-642b1c6241f2)
 
 #3. 구성
 
@@ -33,36 +32,44 @@
 
 이런 워크플로우는 사용자가 시스템을 쉽고 효과적으로 이용하도록 돕는 기본적인 프레임워크를 제공합니다. 이러한 각 단계는 사용자와 시스템 간의 상호작용을 최적화하고 사용자 경험을 향상시키는 데 중요한 역할을 합니다.
 
+![백엔드2](https://github.com/jidyoung/Backend-Team-Project/assets/123146255/c9bd9b1c-ef4e-4d22-bbae-780ac85a2293)
+
+![백엔드3](https://github.com/jidyoung/Backend-Team-Project/assets/123146255/991a1f1a-3be0-4e0d-8c6f-87590cfdebfe)
+
 #5. 프로젝트 시연
 
 게시판글쓰기
 
-https://github.com/jidyoung/Portfolio/assets/123146255/30761014-0446-49a2-b03b-a84c1dff0b24
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/d11817be-ed0b-4d67-a075-fa050f735870
 
 게시판분류별서치
 
-https://github.com/jidyoung/Portfolio/assets/123146255/af84d55d-d846-4817-952f-b6dd4dbef15a
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/986944bc-5dd0-4b86-8b37-9a06ab1f5675
+
+게시판 글 수정, 삭제
+
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/9d532fdc-f62a-48b6-8aff-2f33322b5f1e
 
 로그인확인_공지사항
 
-https://github.com/jidyoung/Portfolio/assets/123146255/7aa6c8c1-6443-41b2-976d-c7cd2351c80a
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/4844be67-8a97-431b-9cba-323fa9b4f443
 
 회원가입 1
 
-https://github.com/jidyoung/Portfolio/assets/123146255/707a6978-f0d9-4481-ac61-ca2975a53490
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/02fc4b19-9ca7-413a-8bee-58a97d1c5bc9
 
 회원가입 2
 
-https://github.com/jidyoung/Portfolio/assets/123146255/3cef7657-47af-435b-b685-fd9d5e24f22e
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/8d43a539-f7b8-403f-9044-b36531ce6247
 
 회원정보수정
 
-Uploading 회원정보수정.mp4…
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/6186f0d9-1f04-458d-9fd5-99d4bd5d104d
 
 회원탈퇴
 
-https://github.com/jidyoung/Portfolio/assets/123146255/a0a4c578-a8f5-40b3-8cb4-a9c754648883
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/9ee866fe-c2f5-4a89-841c-4645058e62bf
 
 관리자
 
-https://github.com/jidyoung/Portfolio/assets/123146255/2fb04820-26c6-4072-a4b8-6bf8d5da78b7
+https://github.com/jidyoung/Backend-Team-Project/assets/123146255/166e9a5a-1aeb-4606-941f-e4a9d6be0c41
